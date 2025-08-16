@@ -5,3 +5,5 @@ linijki piosenki
 
 dodaje kolejne dwie 
 linijki do mojej piosenki
+
+tutaj sobie coś dodaje do pliku hehehe
